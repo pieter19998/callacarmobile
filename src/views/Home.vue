@@ -42,7 +42,7 @@ export default defineComponent({
 }
 
 #container strong {
-  font-size: 20px;
+  font-size: 21px;
   line-height: 26px;
 }
 
